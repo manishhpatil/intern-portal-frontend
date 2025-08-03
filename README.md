@@ -11,8 +11,8 @@ The project includes:
 
 ## 🚀 Live Demo
 
-- 🌐 Frontend: [https://intern-portal-frontend.vercel.app](https://intern-portal-frontend.vercel.app)
-- 🔗 Backend: [https://intern-portal-backend.onrender.com/api/user](https://intern-portal-backend.onrender.com/api/user)
+- 🌐 Frontend: [https://intern-portal-frontend.vercel.app](intern-portal-frontend-five.vercel.app)
+- 🔗 Backend: [https://intern-portal-backend.onrender.com/api/user](https://intern-portal-backend-r0gc.onrender.com/)
 
 ---
 
